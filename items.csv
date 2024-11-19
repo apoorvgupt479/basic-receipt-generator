@@ -1,0 +1,51 @@
+,item_name,item_code,price,tax
+0,Dettol Soap 300gm,1,90,5
+1,Dettol Sanitizer 50ml,2,40,12
+2,Parachute Coconut Oil 300ml,3,80,18
+3,Parachute Coconut Oil 50ml,4,98,12
+4,Sunsilk Shampoo Yellow,5,91,18
+5,Sunsilk Shampoo Pink,6,41,12
+6,Sunsilk Shampoo Black,7,81,5
+7,Sunsilk Conditioner Pink,8,99,5
+8,Maggi Pack of 4,9,92,12
+9,Maggi Pack of 8,10,42,18
+10,Maggi Pack Small,11,82,5
+11,Dabur Red Toothpaste,12,100,12
+12,Patanjali Toothpaste,13,93,5
+13,Colgate Toothpaste,14,43,18
+14,Sensodyne Toothpaste ,15,83,12
+15,Pepsodent Toothpaste,16,101,5
+16,Govardhan Cow Milk,17,94,18
+17,Amul Milk,18,44,5
+18,Amul Lassi,19,84,12
+19,Amul Masti Buttermilk,20,102,5
+20,Johnsons Baby Oil,21,95,12
+21,Johnsons Baby Powder,22,45,18
+22,Pantene Hair Fall Control Shampoo,23,85,18
+23,Pantene Anti Dandruff Shampoo,24,103,5
+24,Uncle Chips Red,25,96,12
+25,Uncle Chips Green,26,46,18
+26,Uncle Chips Yellow,27,86,12
+27,Uncle Chips Blue,28,104,5
+28,Lays Chips Red,29,97,18
+29,Lays Chips Blue,30,47,5
+30,Lays Chips Orange,31,87,12
+31,Lays Chips Green,32,105,18
+32,Doritos Red,33,98,12
+33,Doritos Purple,34,48,5
+34,Fanta 250ml,35,88,12
+35,Sprite 250ml,36,106,12
+36,Limca 250ml,37,99,5
+37,Coke 250ml,38,49,5
+38,Pepsi 250ml,39,89,12
+39,Sting Red 250ml,40,107,5
+40,Fanta 500ml,41,100,5
+41,Sprite 500ml,42,50,12
+42,Limca 500ml,43,90,12
+43,Coke 500ml,44,108,18
+44,Pepsi 500ml,45,101,18
+45,Fanta 1L,46,51,5
+46,Sprite 1L,47,91,12
+47,Limca 1L,48,109,5
+48,Coke 1L,49,102,12
+49,Pepsi 1L,50,52,5
